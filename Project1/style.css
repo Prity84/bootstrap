@@ -1,0 +1,11 @@
+.navbar-nav .nav-link {
+   
+    font-weight: 400;
+    color: white;
+}
+.carousel-item img{
+    width: 60%;
+    height: 70vh;
+    object-fit: cover;
+    
+}
